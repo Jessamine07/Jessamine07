@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center" style="margin-top:-25px;">
-  🎀 💻 tech girl • BSIT student
+  🎀 💻 tech girl • BSIT student ≽^• ˕ • ྀི≼
 </h2>
 <p align="center" style="margin-top:-10px; font-size:14px;">
   Hi, I'm Jessamine 👋 
