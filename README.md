@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./wave.svg" width="100%" height="160px" />
-</p>
 
 <h2 align="center" style="margin-top:-25px;">
   🎀 💻 tech girl • BSIT student
