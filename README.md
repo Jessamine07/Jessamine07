@@ -5,11 +5,15 @@
 <h2 align="center" style="margin-top:-25px;">
   🎀 💻 tech girl • BSIT student ≽^• ˕ • ྀི≼
 </h2>
-<p align="center" style="margin-top:-10px; font-size:14px;">
-  Hi, I'm Jessamine 👋 
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F782BE&center=true&width=435&lines=Hi%2C+I'm+Jessamine+De+Lara%F0%9F%91%8B+" />
+  </a>
 </p>
 
-<p align="center" style="margin-top:-10px;">
+
+<p align="center" style="margin-top:-5px;">
   BSIT Student | React Native | Firebase
 </p>
 
