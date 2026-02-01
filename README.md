@@ -28,7 +28,12 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jessamine07&show_icons=true&cache_seconds=1800" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Jessamine07&show_icons=true&cache_seconds=1800"
+      alt="GitHub stats"
+    />
+  </a>
 </p>
 
 
